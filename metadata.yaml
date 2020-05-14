@@ -1,0 +1,28 @@
+_repo: A-Sermon-Preached-at-Kensington-Church-on-June-the-29th-1794-After-the-Victory-Gained-at-Sea-__62014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phillimore, Joseph
+    alias: Phillimore, Rev. Joseph
+    birthdate: 1750
+    deathdate: 1831
+    gutenberg_agent_id: '51687'
+    url: http://www.gutenberg.org/2009/agents/51687
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 18th century'
+- !lcc 'DA'
+- !lcsh 'First of June, Battle of the, 1794'
+- !lcc 'BV'
+- GITenberg
+title: "A Sermon Preached at Kensington Church, on June the 29th, 1794\r\nAfter the\
+  \ Victory Gained at Sea, June the 1st"
+url: http://www.gutenberg.org/ebooks/62014
